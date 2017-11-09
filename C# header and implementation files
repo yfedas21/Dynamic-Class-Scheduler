@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/111995/c-sharp-class-separation-into-a-header-and-a-cs-file
+
+Basically, header and implementation files are C++ - only. C# isn't separated into header and .cs files, it is all listed in line. If you want to see only classes or objects, you would use Views or the Object Browser instead of header and implementation files. 
