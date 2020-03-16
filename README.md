@@ -1,7 +1,6 @@
 # Dynamic Class Scheduler
 
-This was one of the first programming projects I worked on at Whitworth University. I worked with my good friend and classmate Kostiantyn Makrasnov. This project was for CS172 aka CS2. We learned the C++ programming language, but for this project, our professor gave us permission to use C# instead. The reason we wanted to use C# was because GUI are much easier to implement. 
-
+This was one of the first programming projects I worked on at Whitworth University. The course was CS172, where we learned the fundamentals of the C++ language. My professor allowed Kostiantyn Makrasnov, my partner, and I to use C# because we knew we wanted a GUI and that would be much easier to do using C#. 
 ## The Problem ##
 Kostia and I were both first-semester students when we worked on this project. One of the tasks new students at Whitworth University (and most universities) face is making a four-year plan, which includes scheduling courses in a way that all prerequisite relationships are met. Oftentimes, there are large gaps in one's schedule. For example, you may have Linear Algebra at 8 am, and then Software Engineering at 2:20 pm. The core assumption we made was that students (and potentially faculty) wish to decrease the gaps in their schedule. We assumed people wanted to get their in-class instruction over with as fast as possible (as a more seasoned college student, I realize now that this isn't always the case). 
 
